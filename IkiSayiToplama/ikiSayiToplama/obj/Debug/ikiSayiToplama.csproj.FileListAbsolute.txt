@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\IkiSayiToplama\ikiSayiToplama\bin\Debug\ikiSayiToplama.exe.config
+C:\Users\Lenovo\source\repos\IkiSayiToplama\ikiSayiToplama\bin\Debug\ikiSayiToplama.exe
+C:\Users\Lenovo\source\repos\IkiSayiToplama\ikiSayiToplama\bin\Debug\ikiSayiToplama.pdb
+C:\Users\Lenovo\source\repos\IkiSayiToplama\ikiSayiToplama\obj\Debug\ikiSayiToplama.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\IkiSayiToplama\ikiSayiToplama\obj\Debug\ikiSayiToplama.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\IkiSayiToplama\ikiSayiToplama\obj\Debug\ikiSayiToplama.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\IkiSayiToplama\ikiSayiToplama\obj\Debug\ikiSayiToplama.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\IkiSayiToplama\ikiSayiToplama\obj\Debug\ikiSayiToplama.exe
+C:\Users\Lenovo\source\repos\IkiSayiToplama\ikiSayiToplama\obj\Debug\ikiSayiToplama.pdb
+C:\Users\Lenovo\source\repos\ikiSayiToplama\ikiSayiToplama\obj\Debug\ikiSayiToplama.frmIkiSayiToplama.resources
